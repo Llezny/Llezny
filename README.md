@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate game developer from Poland</h3>
 
-- 🔭 I’m currently working on [Foreign Lands](https://github.com/Llezny/ForeignLands)
+<!--- 🔭 I’m currently working on [Foreign Lands](https://github.com/Llezny/ForeignLands) --!>
 
 - 📫 How to reach me **lukaszlezny@gmail.com**
 
