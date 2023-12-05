@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Lucas</h1>
-<h3 align="center">average minecraft enjoyer</h3>
+<h1 align="center">Hey, I'm Lucas</h1>
+<h3 align="center">It's progressing, just backwards</h3>
 
 <!--- 🔭 I’m currently working on [Foreign Lands](https://github.com/Llezny/ForeignLands) --!>
 
